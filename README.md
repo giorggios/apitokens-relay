@@ -21,3 +21,7 @@ High-speed AI API aggregation gateway built on **New-API**, routing across **Gro
 | :--- | :--- | :---: | :--- |
 | **Fast** | Groq LPU | ~240 ms | Llama 3.3 70B, DeepSeek-R1, Qwen, Mixtral |
 | **Full** | OpenRouter | ~850 ms | Claude 3.7 / 4, GPT-4o / o3, Gemini 2.5 Pro |
+
+### 1-Click Cherry Studio Import
+- **Import Provider:** [Open in Cherry Studio](cherrystudio://providers/api-keys?v=1&data=%7B%22id%22%3A%22apitokens-market%22%2C%22name%22%3A%22APITokens%20Market%22%2C%22type%22%3A%22openai%22%2C%22baseUrl%22%3A%22https%3A%2F%2Fv1.apitokens.market%2Fv1%22%2C%22apiKey%22%3A%22sk-YOUR_API_KEY%22%7D)
+- Replace `sk-YOUR_API_KEY` with your key from https://v1.apitokens.market and confirm.
