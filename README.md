@@ -30,3 +30,8 @@ High-speed AI API aggregation gateway built on **New-API**, routing across **Gro
 - **Claude Code:** [Import into CC-Switch (Claude)](ccswitch://v1/import?resource=provider&app=claude&name=APITokens%20Market&homepage=https%3A%2F%2Fv1.apitokens.market&endpoint=https%3A%2F%2Fv1.apitokens.market&apiKey=sk-YOUR_API_KEY)
 - **Codex CLI:** [Import into CC-Switch (Codex)](ccswitch://v1/import?resource=provider&app=codex&name=APITokens%20Market&homepage=https%3A%2F%2Fv1.apitokens.market&endpoint=https%3A%2F%2Fv1.apitokens.market%2Fv1&apiKey=sk-YOUR_API_KEY)
 - **Gemini CLI:** [Import into CC-Switch (Gemini)](ccswitch://v1/import?resource=provider&app=gemini&name=APITokens%20Market&homepage=https%3A%2F%2Fv1.apitokens.market&endpoint=https%3A%2F%2Fv1.apitokens.market%2Fv1&apiKey=sk-YOUR_API_KEY)
+
+### Free $0.50 Test Vouchers (免费体验兑换码)
+Register at [https://v1.apitokens.market](https://v1.apitokens.market) and redeem any unused code below in **Console -> Redemption**:
+
+
