@@ -34,4 +34,13 @@ High-speed AI API aggregation gateway built on **New-API**, routing across **Gro
 ### Free $0.50 Test Vouchers (免费体验兑换码)
 Register at [https://v1.apitokens.market](https://v1.apitokens.market) and redeem any unused code below in **Console -> Redemption**:
 
-
+- `d8f66f8f9d884d27af67267c280c52a5` ($0.50)
+- `5947ff58108a44d7804678d7bfb4bac3` ($0.50)
+- `1b65ab131af34b0c88f9bd46923d640e` ($0.50)
+- `c4ceacaf0bad49a68e0f24bd68c31a66` ($0.50)
+- `c83651615e414ecab6754fa98dc76fde` ($0.50)
+- `dece97b3067d45639c138e973a742899` ($0.50)
+- `4721f475cdfd46f59ecf6b645c8c812d` ($0.50)
+- `fda0dc59eb8d449fa85982402fef997e` ($0.50)
+- `2df0f23e3f1e420bbfb3d4ca06ae7cbe` ($0.50)
+- `f2c79cbbca2c4b5ca1df637c5ebf88e9` ($0.50)
